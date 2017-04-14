@@ -5,7 +5,8 @@ Feel free to mail me any missing skin [here](mailto:lolisamurai@tfwno.gf) (or ju
 
 **Even if it says can't import the skins should work fine. If you're sure it doesn't work make sure you are on beta or cuttingedge. If you still can't get the skin to work mention me in twitch chat and explain the problem in detail.**
 
-Thanks to Nodebuck for helping with updating.
+# [Seoul++](https://ndb.moe/cxr)
+![](https://ndb.moe/4en.png)
 
 # [-+Seoul+](https://ndb.moe/s4j)
 ![](http://hnng.moe/f/NAQ)
